@@ -13,6 +13,9 @@ También recoge los empleados y sus tareas, los pedidos de los clientes y la inf
 El diagrama:
 ![diagrama.png](diagrama.png).
 
+Modificación:
+![modificacion.png](modificacion.png).
+
 ## 1. Entidades
 
 | Entidad | Descripción |
